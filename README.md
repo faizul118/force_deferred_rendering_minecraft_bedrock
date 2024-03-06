@@ -20,6 +20,8 @@ Where I have older version. Then, in this another [issue](https://bugs.mojang.co
 ![image](https://github.com/faizul118/force_deferred_rendering_minecraft_bedrock/assets/162413089/ec6870a7-4005-40eb-9331-8eae91ae9222)<br>
 6. Open a world, pause the game, go to Settings -> Video -> Graphics mode -> Select Deferred Technical Preview. You should be able to enjoy deferred rendering by now.<br/><br/>
 
+![image](https://github.com/faizul118/force_deferred_rendering_minecraft_bedrock/assets/162413089/f3fce998-652f-4692-877a-d31ea67fe6c0)<br>
+![image](https://github.com/faizul118/force_deferred_rendering_minecraft_bedrock/assets/162413089/bdbab084-2d18-4e98-a8eb-d2d7362a0669)<br>
 ![image](https://github.com/faizul118/force_deferred_rendering_minecraft_bedrock/assets/162413089/bca6edc4-6de4-4b28-9d97-8f86270be67e)<br>
 ![Screenshot_1](https://github.com/faizul118/force_deferred_rendering_minecraft_bedrock/assets/162413089/56749d8f-e80a-4234-902d-c4fcf3f7e362)<br/><br/>
 
